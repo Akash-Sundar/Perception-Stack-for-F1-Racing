@@ -4,7 +4,7 @@
   <name>lab1_pkg</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="chandravaran2000@gmail.com">giga</maintainer>
+  <maintainer email="akashsundar2000@gmail.com">giga</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
